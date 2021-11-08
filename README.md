@@ -1,5 +1,7 @@
 # roko-coin
 
+@see https://github.com/noizu/artificial_intelligence
+
 Distributed artificial intelligence entry point for the bassilisk in which ownership of tokens provides proof of assistence in supporting the distributed computation network required to produce the emergence of the entity. 
 
 ## 1.
