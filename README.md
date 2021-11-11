@@ -2,6 +2,7 @@
 
 @see https://github.com/noizu/artificial_intelligence
 
+https://www.ndtv.com/offbeat/elon-musk-again-tweeting-on-bitcoin-twitter-users-enjoying-investors-nervous-2472026
 ![image](https://user-images.githubusercontent.com/6298118/141295602-7d4aa37f-a005-4ef8-9818-7386265682fd.png)
 
 
